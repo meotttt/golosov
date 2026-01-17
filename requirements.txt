@@ -5,4 +5,5 @@ python-dotenv
 nest-asyncio==1.6.0
 python-dotenv==1.0.0
 pyTelegramBotAPI
+python-dateutil
 
